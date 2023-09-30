@@ -29,13 +29,13 @@ Responsive and user-friendly interface.
 
 ## Technologies Used
 
-- [MongoDB]
-- [Express.js]
-- [React]
-- [Node.js]
-- [ApolloServer]
-- [GraphQL]
-- [Heroku]
+- MongoDB
+- Express.js
+- React
+- Node.js
+- Apollo Server
+- GraphQL
+- Heroku
 
 ## Installation
 
